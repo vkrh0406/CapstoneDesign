@@ -73,11 +73,16 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
+# Tested files
+Content/Map/Practice/SHW/Mesh/HeroFPP_PhysicsAsset.uasset
+Content/Map/Practice/SHW/Mesh/HeroFPP_Skeleton.uasset
+
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/InfinityBladeAdversaries/*
 Content/InfinityBladeGrassLands/*
 Content/ParagonWraith/*
 Content/AnimStarterPack/*
-Content/Map/Practice/SHW/Mesh/HeroFPP_PhysicsAsset.uasset
-Content/Map/Practice/SHW/Mesh/HeroFPP_Skeleton.uasset
+Content/InfinityBladeWarriors/*
+Content/ParagonGreystone/*
+
